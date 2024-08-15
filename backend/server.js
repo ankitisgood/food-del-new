@@ -22,7 +22,7 @@ connectDB()
 // api endpoints
 app.use("/api/user", userRouter)
 app.use("/api/food", foodRouter)
-app.use("/images",express.static('uploads'))
+app.use("/images", express.static('uploads'))
 app.use("/api/cart", cartRouter)
 app.use("/api/order",orderRouter)
 
@@ -31,3 +31,9 @@ app.get("/", (req, res) => {
   });
 
 app.listen(port, () => console.log(`Server started on http://localhost:${port}`))
+
+
+
+// 5:28   here image is not getting saved in upload part of backend folder
+// 4:10 food addd in backend
+// 4;13
