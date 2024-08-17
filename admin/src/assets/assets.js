@@ -7,7 +7,7 @@ import parcel_icon from './parcel_icon.png'
 
 
 // export const url = 'https://food-del-backend-newone.onrender.com'
-export const url = 'http://localhost:4000'
+export const url = 'https://food-del-backend-newone.onrender.com'
 
 // export const url = 'https://food-del-backend-newone.onrender.com'
 // >>>>>>> 697b74df44b9b266190d1dac2a659871c4810e6b

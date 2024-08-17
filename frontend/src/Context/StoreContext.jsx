@@ -7,7 +7,7 @@ const StoreContextProvider = (props) => {
 
 
     // const url = "https://food-del-backend-newone.onrender.com"
-    const url = "http://localhost:4000"
+    const url = "https://food-del-backend-newone.onrender.com"
 
     // const url = "https://food-del-backend-newone.onrender.com"
 
